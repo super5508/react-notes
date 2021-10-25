@@ -1,0 +1,5 @@
+.task {
+  padding-left: 8px;
+  user-select: none;
+  cursor: pointer;
+}
